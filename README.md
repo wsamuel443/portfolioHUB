@@ -43,7 +43,8 @@
 ###
 
 <p align="left">📕 Criação de uma simples calculadora de soma. <a href="https://github.com/wsamuel443/projeto-1"
-target="_blank">projeto-1</a></p>
+target="_blank">projeto-1</a> <br><br>✏️ <a href="https://github.com/wsamuel443/projeto-1/branches"
+target="_blank">Branches</a> (projeto-1)</p>
 
 ###
 
@@ -92,8 +93,5 @@ target="_blank">projeto-1</a></p>
 
 ###
 
-<div align="center">
-  <img height="230" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnpxcjVzYmlrZGh1MHRrMGUxNWJncmE4M3czMjI3cWhtcDZkemEwZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G0MJmNZCoDdrjfMo7H/giphy.webp"  />
-</div>
 
 ###

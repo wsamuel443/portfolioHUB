@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">📍 Bem-vindo ao meu portfólio aqui mostrarei algumas habilidade minhas no decorrer no meu curso até o momento e quais metas eu desejo atingir. Espero que goste.<br><br>📍 Sou brasileiro, gosto bastante de tecnologia e desenvolvimento principalmente web e design. <br><br>💠 Meta atualmente é ser fullstack em Banco de Dados e Design UX/UI<br><br>📍 Atualmente estou cursando Ciência da Computação - 1° Semestre e focando em aprimorar minha habilidades em</p>
+<p align="left">📍 Bem-vindo ao meu portfólio aqui mostrarei algumas habilidade minhas no decorrer no meu curso até o momento e quais metas eu desejo atingir. Espero que goste.<br><br>📍 Sou brasileiro, gosto bastante de tecnologia e desenvolvimento principalmente web e design. <br><br>💠 Meta atualmente é ser fullstack em Banco de Dados e Design UX/UI<br><br>📍 Atualmente estou cursando Ciência da Computação - 1° Semestre e focando em aprimorar minha habilidades em desenvolvimento web.</p>
 
 ###
 
